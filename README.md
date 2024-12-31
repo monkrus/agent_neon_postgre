@@ -8,10 +8,6 @@ Calculate earnings from claimed airdrops.
 Track unclaimed rewards and their deadlines.
 Show ROI and token performance over time
 
-# Project
-src/
-├── components/      // For reusable UI components
-├── pages/           // For main pages (e.g., Dashboard, Wallet, etc.)
-├── styles/          // For CSS or Tailwind files
-├── App.js           // Main app component
-├── index.js         // Entry point
+# Install
+npm create vite@latest airdrop-tracker --template react
+Choose: React, JavaScript
